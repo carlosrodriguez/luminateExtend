@@ -1,0 +1,26 @@
+{
+  "name": "luminate-extend",
+  "version": "1.7.1",
+  "description": "luminateExtend.js is a JavaScript library for use with Luminate Online, a product of Blackbaud. Built on top of jQuery, it provides a JavaScript wrapper around the Luminate Online REST API, with some helper functions and other magic sprinkled in. The library includes support for all major browsers, and can be used both within and outside of Luminate Online.",
+  "main": "luminateExtend.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosrodriguez/luminateExtend.git"
+  },
+  "keywords": [
+    "luminate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosrodriguez/luminateExtend/issues"
+  },
+  "homepage": "https://github.com/carlosrodriguez/luminateExtend#readme"
+}
