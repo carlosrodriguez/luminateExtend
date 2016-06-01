@@ -142,6 +142,7 @@
   window.luminateExtend = function(initOptions) {
     /* make luminateExtend an alias for the init method if called directly */
     luminateExtend.init(initOptions || {});
+    var test = 'test';
   };
 
   window.LuminateExtend = window.luminateExtend;
